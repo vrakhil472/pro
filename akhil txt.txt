@@ -1,0 +1,132 @@
+AKHIL VR
+========
+
+E-mail:		vrakhil4@gmail.com
+Phone:		+917994945959
+
+Address:	PARAVILA VEEDU  , KIZHAKKEKARA
+			KOTTARAKARA , KOLLAM
+			KERALA     691506
+	
+
+Objective
+========================
+	.            To acquire a challenging career with a solid company
+	utilizing the opportunity to offer proven and developing skills within the
+	company.
+
+Work experience
+========================
+	> UMed Laboratories (June 2014 - Dec  2015), calibration and validation  engineer
+	* calibration testing procedures for each piece of equipment based on
+	detailed drawings, blueprints and other technical specifications provided
+	by your employer or the instrument manufacturer.* compile, measure and
+	record data from each instrument for other technicians and managers to
+	review.* calibration of field instruments -pressure gauges ,temp.
+	gauges,pressure transmitter,pressure switch ,temp indicator ,temp
+	controller ,PLC validation, etc. *  measurement errors must be quickly
+	identified and corrected. Instruments that require inspection and repair
+	may be of an acoustical, chemical, electrical, fluid, mechanical, optical
+	or thermodynamic nature.
+	--------
+
+	> REVELATION AUTOMATION AND CONTROL (DEC 2015 - JAN  2016), Field Engineer
+	* Programming using Structured Control Language (SCL).* Experience in
+	Instruments Troubleshooting / Installation. Good knowledge in Electrical
+	Control panels / MCC panels Installation / Troubleshooting.* Installation
+	&amp; Commissioning of various Control systems.*  experience in Selection
+	of various Control systems / Instruments / Sensors / Electrical
+	components.* PLC , SCADA , DCS ,communication protocols RS 232 , RS 485 ,
+	Cable termination , Glanding , cable pulling * field instruments
+	calibration 
+	--------
+
+	> EMERTXE INFORMATION TECHNOLOGIES (MAR 2017 - present), Software Developer
+	* Embedded C  ( Basic C , Advanced  C , pointers , Data structure ) *
+	Micocontroller (PIC ,  ATMEL , ADRUINO , RASP PI , 8051 ),  RTOS .* Linux
+	systems , Linux Kernels ,  Linux device drivers  ( Block , Network)*
+	Communication protocol ( RS 232  , TCP / IP )* Proteus software       
+	                                                 
+	                                               
+	Project cordination*  USB / IP Project : develop sharing system over IP
+	network . *  Design Of Arm-Based Embedded Ethernet Interface.*
+	 Raspberry Pi CCTV network  *  Steganography                 
+	                                                 
+	                            *  Android app home automation
+	via blutooth using PIC16F628A                            *
+	 Vechicle speed indicator *  Firmware application development on HAL (on
+	contract )* Proteus Software                           *
+	Source code to html (Advance c project )* Knowledge of Web design ( Boot
+	strap , HTML , UI/UX Design ) , shell scripting , Ubuntu , C++ , OOPS ,
+	DBMS , C# , Git , Java script , GNU ,GCC compiler , VI/VIM Editors , FIGMA
+	design * Knowledge of SQL data base
+
+skills and summary
+========================
+	* Knowledge on Different Sensors and Other Field Instruments* Loop checking
+	and simulation of Instruments  Maintenance and Calibration of
+	Different  * Level ,Flow ,Pressure And Temperature Transmitters.   *
+	I/P Converters ,Pressure and Temperature Gauges.   * Control valves
+	,Safety and Relief Valves.   * Pressure Switches ,Level Switch
+	,Temperature Switch ,Limit Switch ,CAD AM Switch.     * Usage of
+	Communicator for SMART Instruments- HART and FF  Instrumentation Cabling
+	,Tray Works Glanding And Termination* Embedded C , MATLAB , Labview ,
+	Micrprocessors , Micro controllers ( PIC ), Linux internals and kernels ,
+	Ubuntu , MS Office . * Web development 
+
+Education
+========================
+	> BTech Instrumentation &amp; Control (June 2010 - June 2014), NSS college of Engineering Palakkad
+	* percentage obtained  64%* ISA Certifications .* Mini project     :  
+	 Window detector using OP-amp (741). * Major project  :     Microgrids
+	optimisation Techniques . * project done  from  Kalki  communications
+	Technologies ltd .
+	--------
+
+	> plus two (may 2007 - may 2009), EVHSS Neduvatoor
+	percentage obtained -72%
+	--------
+
+	> SSLC (May 2006 - May 2007), St Mary's HSS
+	percentage obtained 80%
+
+cerifications
+========================
+	PG Diploma  in Embedded systems design from Emertxe information
+	Technologies * skills on Embedded C , LINUX internals and kernels   ,
+	Microprocessors , PIC Micro controllers  .* Designing , Developing
+	 ,coding , testing and debugging  for embedded devices .* done project
+	on steganography.
+
+Qualifications
+========================
+	* cerification from ISA
+
+Interests
+========================
+	Music, Reading, Travelling ,gaming
+
+personal information
+========================
+	Date of Birth        :   09-10-1991Sex                    
+	             :   Male Marital Status                 : 
+	 Single   Father's Name                           : 
+	 V.Radhakrishnan AchariMother's Name                     : 
+	 P.Renjini Languages Known                : 
+	 Malayalam,English,Hindi Passport No                         
+	                                         : 
+	 S0063638Git hub profile                                 
+	                              : 
+	 https://github.com/vrakhil472Linked in                       
+	                                               
+	 :   https://www.linkedin.com/in/akhil-vr-1970364b/
+
+References
+========================
+	Dr.S.Sreenadhan ProfessorInstrumentation &amp; Control EngineeringN.S.S
+	Engineering College, Palakkad Ph Num : 0491-2554955 
+	
+	Anoj
+	kumarcalibration departmentUmed labs hyderabadmanagerph :+919847171757   
+	   +917032979484
+
